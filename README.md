@@ -1,6 +1,6 @@
 # Plant Disease Detection using VGG16
 
-Developed by: **Moaz**
+Developed by: **Mohsin**
 
 This project implements a robust deep learning solution to identify and classify plant leaf diseases from images. Using the VGG16 architecture and Transfer Learning, the model is trained to recognize multiple symptoms across various plant species, providing a valuable tool for early diagnosis and precision agriculture.
 
